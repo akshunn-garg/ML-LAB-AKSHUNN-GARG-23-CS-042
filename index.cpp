@@ -9,6 +9,10 @@ int main(){
     int x=3;
     char c='a';
     string name="akshunn";
+<<<<<<< HEAD
     newfunc();
+=======
+    cout<<"branch switching"<<endl;
+>>>>>>> origin/akshunn-feat
     return 0;
 }
